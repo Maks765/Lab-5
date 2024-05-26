@@ -1,0 +1,10 @@
+C:\Users\maksi\source\repos\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\maksi\source\repos\Lab5\bin\Debug\Lab5.exe
+C:\Users\maksi\source\repos\Lab5\bin\Debug\Lab5.pdb
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.exe
+C:\Users\maksi\source\repos\Lab5\obj\Debug\Lab5.pdb
